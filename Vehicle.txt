@@ -1,0 +1,6 @@
+1048  6931  Suzuki      APV              8520  HTV   12 12 2015 15  8   0  0  1  0    0    
+6055  6095  Hyuandai    Shahzor          1233  LTV   2  10 2008 15  2   0  1  2  3.8  1    
+3829  3822  Tuk         Rickshaw         4448  LTV   4  4  2014 20  4   1  2  0  0    0    
+4875  6245  Vespa       Scooter          2210  BOTH  8  10 2004 26  2   0  2  0  2.5  3    
+6545  4015  CD          Bike             3333  LTV   2  2  2002 21  2   0  2  0  0    2    
+3024  1653  Yamaha      Bike             2723  LTV   5  9  2003 25  2   0  2  0  0    1    
