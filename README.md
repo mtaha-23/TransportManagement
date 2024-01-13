@@ -13,3 +13,6 @@ Experience---Driver's License---Overall Ranking of Driver---Total Earned amount 
 **`In the Vehicle File the Data is stored as`**<br>
 Unique ID of Vehicle's Driver---Vehicle Unique ID---Vehicle Model---Vehicle Type---Vehicle Registration No.---Vehicle License Type---Manufacturing Date of Vehicle(Day/Month/Year)---Average Mileage of Vehicle---
 no of seats in Vehicle---Vehicle Status(Free or Booked)---Vehicle is used for Ride or Delivery or both---Route of Vehicle----Overall Ranking of Vehicle---Total Services completed by this Vehicle
+
+**`In the Service File the Data is stored as`**<br>
+Customer ID---Driver ID---Vehile ID---Booking Date(Day/Month/Year)---Booking Time(Hour/Minute/Second)---Route---Source---Destination---Distance---Service Status(1 for Completed, 2 if Pending and 3 if Cancelled, 4 Pendind Aproval from Driver)---Fuel Rate---Fare---Driver Ranking---Vehicle Ranking
