@@ -1,7 +1,7 @@
 # TransportManagementSystem
 
 **`In the LOGIN DETAIL file the Data is stored as`**<br>
-Username---4 Digit PIN---Login Type---Unique ID
+Username---4 Digit PIN---Login Type (1- Admin, 2- Customer, 3- Driver)---Unique ID
 
 **`In the Customer File the Data is stored as`**<br>
 Unique ID of Customer---First Name---Last Name---Date of Birth(Day/Month/Year)---Age---National Identification Number---Total Booking Completed by Customer
